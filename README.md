@@ -1,3 +1,9 @@
+# DEPRECATED
+As of Angel `1.1.0`, this package is unnecessary, as the functionality to compress responses has been inlined into the framework itself.
+
+See the migration guide:
+https://angel-dart.gitbook.io/angel/migration-guide
+
 # compress
 
 [![version 1.0.0+2](https://img.shields.io/badge/pub-v1.0.0+2-brightgreen.svg)](https://pub.dartlang.org/packages/angel_compress)
